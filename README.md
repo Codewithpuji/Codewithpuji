@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Poojitha Kalyanam</h1>
-<h3 align="center">I am a recent graduate with a Master's in Data Analytics from Berlin School Of Business And Innovation. My academic journey has equipped me with a robust understanding of data science concepts, statistical analysis, machine learning, and data visualization. I am passionate about turning data into actionable insights and am actively seeking opportunities to apply my skills in the industry.</h3>
+<h3 align="center">I am a recent graduate with a Master's in Data Analytics from University for the Creative Arts. My academic journey has equipped me with a robust understanding of data science concepts, statistical analysis, machine learning, and data visualization. I am passionate about turning data into actionable insights and am actively seeking opportunities to apply my skills in the industry.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
