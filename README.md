@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **kalyanampoojitha95@gmail.com**
+- 📫 How to reach me **kalyanampoojitha99@gmail.com**
 
 - ⚡ Fun fact **It's impossible to hum while holding your nose.**
 
